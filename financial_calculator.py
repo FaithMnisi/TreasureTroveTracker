@@ -2,7 +2,7 @@ import math
 
 while True:
     # Show the user the menu
-    print("Menu:")
+    print("Welcome to the Treasure Trove Tracker\n")
     print("Investment - to calculate the amount of interest you'll earn on your investment")
     print("Bond - to calculate the amount you'll have to pay on a home loan")
     print("Exit - to exit the program")
@@ -73,5 +73,5 @@ while True:
     # Prompt user to go back to the menu or exit
     response = input("Enter 'menu' to return to the menu or 'exit' to exit the program: ")
     if response.lower() == 'exit':
-        print("Goodbye!")
+        print("Farewell, financial voyager!")
         break
