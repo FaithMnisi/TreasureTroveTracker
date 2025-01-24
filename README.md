@@ -41,18 +41,12 @@
 ## Example Outputs  
 - **Investment (Compound Interest)**:  
   ```
-  Principal: $10,000  
-  Interest Rate: 7%  
-  Duration: 5 years  
-  Future Value: R14,025.52  
+  The total investment amount after 5 years will be R14025.52  
   ```  
 
 - **Bond (Monthly Repayment)**:  
   ```
-  House Value: $250,000  
-  Interest Rate: 7%  
-  Repayment Period: 240 months  
-  Monthly Repayment: R1,936.43  
+  The monthly repayment amount for your bond will be R1936.43  
   ```  
 
 ## Error Handling  
